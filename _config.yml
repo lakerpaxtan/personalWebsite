@@ -1,0 +1,50 @@
+url: 
+baseurl: /home/
+
+# Site settings
+title: 
+email: paxtanlaker@berkeley.edu
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+
+theme: agency-jekyll-theme
+
+# Team names, titles and social links
+people:
+
+
+
+
+- name: Paxtan Laker
+  pic: 2
+  position: 
+  social:
+    - title: github
+      url: https://github.com/lakerpaxtan
+    - title: linkedin
+      url: https://www.linkedin.com/in/lakerpax/
+    - title: facebook
+      url: https://www.facebook.com/paxtan.laker
+
+
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/jekyllrb
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: bitbucket 
+    url: http://bitbucket.org/jekyll
+  - title: github
+    url: http://github.com/jekyll
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 
+  - line: 
+
+# Build settings
+markdown: kramdown
+permalink: pretty
