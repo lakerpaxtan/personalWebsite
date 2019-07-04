@@ -1,15 +1,20 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: ISAACS Dev + Research
+subtitle: UnityDev + UI/UX/HRI Research
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+date: 2018-01-18
+img: scrnshotISAACS.png
+img2: LabLayout.png
+img3: 2DHeightSelection.png
+thumbnail: scrnshotISAACS.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: January 2018
+client: UC Berkeley Augmented Cognition Labs
+category: UnityDev + UI/UX/HRI Research
+description: The 'Immserive Semi-Autonomous Aerial Command Systems' project is a research project dedicated to exploring the most intuitive and efficient UAV control systems. More specifically, I worked as a Unity developer creating the main VR interface to test our hypothesis that the increased spatial awareness of VR would make drones safer and easier to control. This project has spanned over 3 years and I worked about 15 hours a week as a Unity developer, undergraduate researcher, and author of the ISAACS research paper (planned to be published by the end of Summer 2019). 
+
+
+
 
 ---

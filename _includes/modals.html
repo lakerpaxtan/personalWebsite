@@ -14,10 +14,11 @@
                         <div class="modal-body">
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                           
+
                             <p>{{ post.description }}</p>
                             <ul class="list-inline item-details">
-                                <li>Client:
+                                <li>Company:
                                     <strong><a href="http://startbootstrap.com">{{ post.client }}</a>
                                     </strong>
                                 </li>
@@ -25,11 +26,14 @@
                                     <strong><a href="http://startbootstrap.com">{{ post.project-date }}</a>
                                     </strong>
                                 </li>
-                                <li>Service:
+                                <li>Subject Area:
                                     <strong><a href="http://startbootstrap.com">{{ post.category }}</a>
                                     </strong>
                                 </li>
                             </ul>
+                            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" >
+                            <img src="img/portfolio/{{ post.img2 }}" class="img-responsive img-centered" >
+                            <img src="img/portfolio/{{ post.img3 }}" class="img-responsive img-centered" >
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
