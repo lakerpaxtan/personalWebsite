@@ -4,10 +4,10 @@ subtitle: UnityDev + UI/UX/HRI Research
 layout: default
 modal-id: 1
 date: 2018-01-18
-img: scrnshotisaacs.png
+img: frontdrone.png
 img2: LabLayout.png
 img3: 2DHeightSelection.png
-thumbnail: scrnshotisaacs.png
+thumbnail: frontdrone.png
 alt: image-alt
 project-date: January 2018
 client: UC Berkeley Augmented Cognition Labs
