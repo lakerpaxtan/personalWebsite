@@ -1,15 +1,17 @@
 ---
-title: Escape
-subtitle: Website Design
+title: VR "Tetris"
+subtitle: VR Dev (Unity)
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: correcttetrisone.png
+img2: correcttetristhree.png
+img3: correcttetristwo.png
+link: https://github.com/lakerpaxtan/VR-PuzzlePax
+thumbnail: correcttetrisone.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+project-date: August 2018
+client: Personal Project
+category: VR Dev (Unity)
+description: My personal extrapolation of tetris into VR. I wanted to challenge myself to complete a full VR game in Unity and this is the result. You can clear blocks from either horizontal or vertical planes, and all hold, drop, and difficulty functionality is present. Performance mode is also available for slower computers at the cost of visual fidelity. Designed for Vive Pro, but works with Microsoft Mixed Reality Headsets and the Oculus Go.
 ---

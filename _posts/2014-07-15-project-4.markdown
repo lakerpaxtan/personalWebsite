@@ -1,15 +1,19 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: VR Education Branch
+subtitle: Project Management + VR Dev (Unity)
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+img: correcteducationone.png
+img2: correcteducationtwo.png
+img3: correcteducationthree.png
+img4: correcteducationfour.png
+thumbnail: correcteducationone.png
+vid: paxteach.mp4
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: January 2019
+client: VR Berkeley
+category: Project Management + VR Dev (Unity)
+description: In aneffort to extend the reach of the VR DeCal and graduate student VR Development course I had taught the previous two semesters, I petitioned to make the VR Education Branch, a branch in VR@Berkeley that hosts all education-purposed teams. As the first branch in VR@Berkeley, we have fostered a large community of people and teams devoted to spreading our passion for VR. Our current teams under the education branch include&#58; "DeCal Team" (5 people), "Workshops Team" (4 People), "Modules Team" (4 People), "VR Textbook Team" (4 people), "Research Team" (4 People). I actively lead meetings between these teams to facilitate resources between VR@Berkeley and these VR Education Branch teams as the VR Education Branch Lead. As VR Education Branch Lead, I am also one of four executives making decisions for VR@Berkeley, the nation's largest undergraduate VR club with around 150 active club members.
 
 ---

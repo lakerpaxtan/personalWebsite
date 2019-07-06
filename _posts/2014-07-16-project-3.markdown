@@ -1,15 +1,19 @@
 ---
-title: Golden
-subtitle: Website Design
+title: AR "Tetris"
+subtitle: AR Dev (Unity)
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+date: 2014-07-17
+img: frontdrone.png
+vid: arvid.mp4
+link: https://github.com/lakerpaxtan/AR-Puzzle-Pax
+img: correctartetrisone.png
+img2: correctartetristwo.png
+thumbnail: correctartetrisone.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+client: Personal Project
+category: AR Dev (Unity)
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---

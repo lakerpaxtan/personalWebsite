@@ -1,16 +1,17 @@
 ---
-title: Startup Framework
-subtitle: Website Design
+title: AR Measurement
+subtitle: AR Dev (Unity)
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: startup-framework.png
-img2: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
+img: correctmeasurmentone.png
+thumbnail: correctmeasurmentone.png
+vid: measurmentvid.mp4
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+link: https://github.com/lakerpaxtan/ARMeasurement
+project-date: May 2019
+client: Personal Project
+category: AR Dev (Unity)
+description: In frustration with time-delay assosciated with the current measurment app that all iPhone come preloaded with, I wanted to make my own measurment app. It's a fairly simple and convenient app that leans on ARCore heavily and allows you to measure between any two points without any delay. The cost of removing the delay comes with loss of accuracy if measuring too quickly. 
 
 ---
