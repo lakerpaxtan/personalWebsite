@@ -7,6 +7,7 @@ date: 2014-07-17
 img: correcttetrisone.png
 img2: correcttetristhree.png
 img3: correcttetristwo.png
+game: htmlTetris.json
 link: https://github.com/lakerpaxtan/VR-PuzzlePax
 thumbnail: correcttetrisone.png
 alt: image-alt
