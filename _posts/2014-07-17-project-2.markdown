@@ -7,12 +7,12 @@ date: 2014-07-17
 img: correcttetrisone.png
 img2: correcttetristhree.png
 img3: correcttetristwo.png
-game: htmlTetris.json
+game: <strong><a href="BrowserDemo.html">|||  &nbsp; &nbsp;  &lt;Link to Demo Browser Build&gt;</a> </strong>
 link: https://github.com/lakerpaxtan/VR-PuzzlePax
 thumbnail: correcttetrisone.png
 alt: image-alt
 project-date: August 2018
 client: Personal Project
 category: VR Dev (Unity)
-description: My personal extrapolation of tetris into VR. I wanted to challenge myself to complete a full VR game in Unity and this is the result. You can clear blocks from either horizontal or vertical planes, and all hold, drop, and difficulty functionality is present. Performance mode is also available for slower computers at the cost of visual fidelity. Designed for Vive Pro, but works with Microsoft Mixed Reality Headsets and the Oculus Go.
+description: ---------------------------------------------- <strong><a href="BrowserDemo.html">&lt;Link to Demo Browser Build&gt;</a> </strong>  ---------------------------------------------                                     My personal extrapolation of tetris into VR. I wanted to challenge myself to complete a full VR game in Unity and this is the result. You can clear blocks from either horizontal or vertical planes, and all hold, drop, and difficulty functionality is present. Performance mode is also available for slower computers at the cost of visual fidelity. Designed for Vive Pro, but works with Microsoft Mixed Reality Headsets and the Oculus Go.
 ---

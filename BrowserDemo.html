@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Unity WebGL Player | PuzzlePax</title>
+    <link rel="shortcut icon" href="TemplateData/favicon.ico">
+    <link rel="stylesheet" href="TemplateData/style.css">
+    <script src="TemplateData/UnityProgress.js"></script>  
+    <script src="Build/UnityLoader.js"></script>
+    <script>
+      var gameInstance = UnityLoader.instantiate("gameContainer", "Build/htmlTetris.json", {onProgress: UnityProgress});
+    </script>
+  </head>
+  <body>
+    <div class="webgl-content">
+      <div id="gameContainer" style="width: 960px; height: 600px"></div>
+      <div class="footer">
+        <div class="fullscreen" onclick="gameInstance.SetFullscreen(1)"></div>
+        <div class="title">PuzzlePax</div>
+        <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>DEMO BUILD ONLY</h2>
+                            <hr class="star-primary">
+                           
+                            <p>----------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+                            <p>This game is meant to be played in VR >>> Experience is extremely limited on PC.</p>
+                            <p>----------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+                            <ul class="list-inline item-details">
+                                <li>Controls:
+                                    <strong>WASD - Movement | 1 2 3 - Rotation | Down - Downward Movement | Up - Hold and Swap | Space - Drop 
+                                    </strong>
+                                </li>
+                                 <li>Features:
+                                    <strong>3D "Tetris" | Clear floors or walls by covering the horizontal axis or vertical axis (up to the purple line)
+                                    </strong>
+                                </li>
+                                <li><a href="https://www.paxtanlaker.com/">Link Back to Main Page</a>
+                                  
+                                </li>
+                             
+                        </div>
+                    </div>
+                </div>
+            </div>
+      </div>
+    </div>
+
+  </body>
+</html>
