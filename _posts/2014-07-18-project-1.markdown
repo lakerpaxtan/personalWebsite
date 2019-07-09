@@ -1,6 +1,6 @@
 ---
 title: ISAACS Dev + Research
-subtitle: VR Dev (Unity) + UI/UX/HRI Research
+subtitle: VR Dev (Unity) | UI/UX/HRI Research
 layout: default
 modal-id: 1
 date: 2014-07-17
@@ -8,6 +8,7 @@ img: correctisaacsone.png
 img2: correctisaacstwo.png
 img3: correctisaacsthree.png
 link: https://ptolemy.berkeley.edu/projects/isaacs/
+linkDes: https://ptolemy.berkeley.edu/projects/isaacs/
 thumbnail: correctisaacsone.png
 alt: image-alt
 project-date: January 2018

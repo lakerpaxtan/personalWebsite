@@ -7,6 +7,7 @@ date: 2014-07-17
 img: frontdrone.png
 vid: https://www.youtube.com/embed/EG1ZrfygQ5o
 link: https://github.com/lakerpaxtan/AR-Puzzle-Pax
+linkDes: https://github.com/lakerpaxtan/AR-Puzzle-Pax
 img: correctartetrisone.png
 img2: correctartetristwo.png
 thumbnail: correctartetrisone.png

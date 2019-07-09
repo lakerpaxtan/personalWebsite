@@ -6,9 +6,10 @@ modal-id: 5
 date: 2014-07-14
 img: correctmeasurmentone.png
 thumbnail: correctmeasurmentone.png
-vid: 
+vid: https://www.youtube.com/embed/Bdn4WY5xQHs
 alt: image-alt
 link: https://github.com/lakerpaxtan/ARMeasurement
+linkDes: https://github.com/lakerpaxtan/ARMeasurement
 project-date: May 2019
 client: Personal Project
 category: AR Dev (Unity)

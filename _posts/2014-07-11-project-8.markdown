@@ -1,0 +1,19 @@
+---
+title: Autonomous Robot w/ Speech Recognition 
+subtitle: C Software Dev | PCB Hardware Dev
+layout: default
+modal-id: 8
+date: 2014-07-11
+img: robotfront.png
+img2: initialboard.jpg
+vid: https://www.youtube.com/embed/V0WYbThP48c
+link: https://www.paxtanlaker.com/
+linkDes: (Private Class Repo)
+thumbnail: robotfront.png
+alt: image-alt
+project-date: November 2018
+client: CS Project
+category: Software Engineering (C + ML) and Hardware Engineering (Chassis Circuit)
+description: The autonomous robot project was designed to teach the dynamic of combined software and hardware design. The chassis circuit was made completely from scratch from basic components - no arduino modules. The code was written in C and uses K means to determine speech commands in real time. The speech commands are fed to the car, which is then combined with PCA closed loop auto straightening algorithms to drive the car in the desired direction. 
+
+---

@@ -1,0 +1,20 @@
+---
+title: HAB High Altitude Balloon
+subtitle: C Software Dev | KiCad Hardware Dev
+layout: default
+modal-id: 7
+date: 2014-07-12
+img: HAB.png
+img2: stacpcb.jpg
+vid: https://www.youtube.com/embed/BauzWabbGxs
+vid2: https://www.youtube.com/embed/CLkuHBwS2Gc
+link: https://stac.berkeley.edu/project/balloon
+linkDes: https://stac.berkeley.edu/project/balloon
+thumbnail: HAB.png
+alt: image-alt
+project-date: August 2018
+client: Space Technologies at Cal
+category: Software Engineering (C) + Hardware Engineering (KiCad)
+description: The purpose of the STAC High Altitude Baloon team is to create inexpensive and accessible ways for companies and organizations to test their experiments in low gravity, high altitude environments. I joined the STAC High Altitude Balloon team as a project engineer in both hardware and software engineering. I designed a custom PCB in KiCad to standardize and increase success rate of HAB launches by modularizing component functionality. I developed software to track and communicate with the HAB payload up to 100k feet. I assisted in creating hypotheses to pair with our experients to test the effects of high-altitude, low-gravity environments. 
+
+---

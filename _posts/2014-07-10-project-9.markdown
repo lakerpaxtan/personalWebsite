@@ -1,0 +1,19 @@
+---
+title: Google Maps Web Clone 
+subtitle: Java Software Dev | WebDev
+layout: default
+modal-id: 9
+date: 2014-07-10
+linkDes: (Private Class Repo)
+link: https://www.paxtanlaker.com/
+img: bearmapsfront.png
+img2: bearmaps2.png
+img3: bearmaps3.png
+thumbnail: bearmapsfront.png
+alt: image-alt
+project-date: August 2018
+client: CS Project
+category: Software Engineering (Java) and WebDev
+description: Created a Google Maps Web Clone to practice algorithms (A* search algorithm) and dataset integration (OpenStreetMap data set). Designed the rastering system to allow for scrolling on the web page and realtime updates to route selection.
+
+---
