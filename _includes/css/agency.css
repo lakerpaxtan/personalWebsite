@@ -185,6 +185,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-brand:active,
 .navbar-default .navbar-brand.active {
     color: #{{ site.data.template.color.secondary }};
+
 }
 
 .navbar-default .navbar-collapse {
@@ -198,6 +199,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-toggle .icon-bar {
     background-color: #fff;
+
 }
 
 .navbar-default .navbar-toggle:hover,
@@ -210,6 +212,7 @@ fieldset[disabled] .btn-xl.active {
     font-family: {{ site.data.template.font.primary }};
     font-weight: 550;
     letter-spacing: 1px;
+    text-shadow: 2px 2px 2px #000000;
     color: #fff;
     -webkit-transition: all ease .35s;
     -moz-transition: all ease .35s;
