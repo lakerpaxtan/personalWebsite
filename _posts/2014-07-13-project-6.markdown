@@ -1,5 +1,5 @@
 ---
-title: ISAACS Radiation Visualization
+title: ISAACS Radiation Viz
 subtitle: Project Management | Data Viz (Unity)
 layout: default
 modal-id: 6
