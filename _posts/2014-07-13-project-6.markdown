@@ -5,7 +5,7 @@ layout: default
 modal-id: 6
 date: 2014-07-15
 img: correctradiationone.png
-vid: radiationviz.mp4
+vid: https://www.youtube.com/embed/6hxXkdetpYo
 thumbnail: correctradiationone.png
 alt: image-alt
 project-date: September 2018

@@ -5,7 +5,7 @@ layout: default
 modal-id: 3
 date: 2014-07-17
 img: frontdrone.png
-vid: arvid.mp4
+vid: https://www.youtube.com/embed/EG1ZrfygQ5o
 link: https://github.com/lakerpaxtan/AR-Puzzle-Pax
 img: correctartetrisone.png
 img2: correctartetristwo.png
@@ -14,6 +14,6 @@ alt: image-alt
 project-date: April 2014
 client: Personal Project
 category: AR Dev (Unity)
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: In an attempt to expand my skillset, I decided to use AR Foundation (a Unity API designed to be compatible w/ both ARCore and ARKit) to port my VR "Tetris" game into AR. It was a challenging prospect and taught me a lot about the limits and capabilities of AR.
 
 ---

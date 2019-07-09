@@ -9,7 +9,7 @@ img2: correcteducationtwo.png
 img3: correcteducationthree.png
 img4: correcteducationfour.png
 thumbnail: correcteducationone.png
-vid: paxteach.mp4
+vid: https://www.youtube.com/embed/H6hsqLqGVTU
 alt: image-alt
 project-date: January 2019
 client: VR Berkeley
