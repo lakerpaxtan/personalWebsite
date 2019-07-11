@@ -1,0 +1,21 @@
+---
+title: Check-Mate 
+subtitle: iOS | xCode | Swift Dev
+layout: default
+modal-id: 12
+date: 2014-07-07
+linkDes: (Soon to be on the App Store)
+link: https://www.paxtanlaker.com/
+img: checkmatefront.png
+img2: checkmatetwo.png
+img3: checkmatethree.png
+img4: checkmatefour.png
+vid: https://www.youtube.com/embed/oJVTyibOoyw
+thumbnail: checkmatefront.png
+alt: image-alt
+project-date: December 2018
+client: CS Project
+category: iOS + xCode + Swift Dev
+description: The final project of an iOS App Development class was to team up in groups of 4 and create an app to submit in a public competition. The competition consisted of about 50 other apps, and we won "Most Innovative" out of 3 total winners. I collge, I lived in a house with 10 people and splitting the bill when we went group grocery shopping (and we wanted to share some items) was a painful experience. "Check-Mate" is an app designed to help you seamleslly keep track of bills and items. It automatically sends an email and text message to everyone involved in your bill with how much they owe and what they purchased.
+
+---

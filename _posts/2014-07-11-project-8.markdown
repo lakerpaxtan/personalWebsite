@@ -1,5 +1,5 @@
 ---
-title: Autonomous Car + Speech Recognition 
+title: AutoCar w/ Speech Commands 
 subtitle: C Software Dev | PCB Hardware Dev
 layout: default
 modal-id: 8

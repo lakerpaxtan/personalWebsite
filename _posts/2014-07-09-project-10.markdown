@@ -1,0 +1,18 @@
+---
+title: 2D Multiplayer "Tag" Game
+subtitle: Java Software Dev
+layout: default
+modal-id: 10
+date: 2014-07-09
+linkDes: (Private Class Repo)
+link: https://www.paxtanlaker.com/
+img: exampletile.png
+img2: actualtile.png
+thumbnail: exampletile.png
+alt: image-alt
+project-date: March 2018
+client: CS Project
+category: Java Software Dev
+description: Created a local multiplayer game in Java that creates procedurally generated psuedo-random maps. The goal of the game is for player 1 to "tag" player 2 within map boundaries. The main goal of the project was to better my Java skills and learn the ropes of procedural generation. The game also features save-states, a main menu, and other options within the UI. 
+
+---
