@@ -1,5 +1,5 @@
 ---
-title: HAB High Altitude Balloon
+title: High Altitude Balloon
 subtitle: C Software Dev | KiCad Hardware Dev
 layout: default
 modal-id: 7
