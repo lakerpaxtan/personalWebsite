@@ -41,20 +41,20 @@
                             </ul>
                         
                             
-                            <object width="600" height ="400" data ={{post.vid}} >
+                            <object width="600" height ="400" data ={{post.vid}} onerror="this.style.display='none'">
 
                             </object>
 
-                            <object width="600" height ="400" data ={{post.vid2}} >
+                            <object width="600" height ="400" data ={{post.vid2}} onerror="this.style.display='none'">
 
                             </object>
 
                           
                             
-                            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt=" " >
-                            <img src="img/portfolio/{{ post.img2 }}" class="img-responsive img-centered" alt=" ">
-                            <img src="img/portfolio/{{ post.img3 }}" class="img-responsive img-centered" alt=" ">
-                            <img src="img/portfolio/{{ post.img4 }}" class="img-responsive img-centered" alt=" ">
+                            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered"  onerror="this.style.display='none'">
+                            <img src="img/portfolio/{{ post.img2 }}" class="img-responsive img-centered" onerror="this.style.display='none'" >
+                            <img src="img/portfolio/{{ post.img3 }}" class="img-responsive img-centered" onerror="this.style.display='none'">
+                            <img src="img/portfolio/{{ post.img4 }}" class="img-responsive img-centered" onerror="this.style.display='none'">
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>

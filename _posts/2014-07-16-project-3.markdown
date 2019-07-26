@@ -15,6 +15,6 @@ alt: image-alt
 project-date: April 2014
 client: Personal Project
 category: AR Dev (Unity)
-description: In an attempt to expand my skillset, I decided to use AR Foundation (a Unity API designed to be compatible w/ both ARCore and ARKit) to port my VR "Tetris" game into AR. It was a challenging prospect and taught me a lot about the limits and capabilities of AR.
+description: In an attempt to expand my skillset, I decided to use AR Foundation (a Unity API designed to be compatible w/ both ARCore and ARKit) to port my VR Tetris game into AR. It was a challenging prospect and taught me a lot about the limits and capabilities of AR.
 
 ---
