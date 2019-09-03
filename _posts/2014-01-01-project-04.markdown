@@ -3,7 +3,7 @@ title: AR Measurement
 subtitle: AR Dev (Unity)
 layout: default
 modal-id: 5
-date: 2014-07-14
+date: 2014-07-17
 img: correctmeasurmentone.png
 thumbnail: correctmeasurmentone.png
 vid: https://www.youtube.com/embed/Bdn4WY5xQHs

@@ -3,7 +3,7 @@ title: Check-Mate
 subtitle: iOS | xCode | Swift Dev
 layout: default
 modal-id: 12
-date: 2014-07-07
+date: 2014-07-17
 linkDes: (Soon to be on the App Store)
 link: https://www.paxtanlaker.com/
 img: checkmatefront.png

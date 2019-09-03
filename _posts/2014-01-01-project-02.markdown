@@ -3,7 +3,7 @@ title: Voice-Recognition Car
 subtitle: C Software Dev | PCB Hardware Dev
 layout: default
 modal-id: 8
-date: 2014-07-11
+date: 2014-07-17
 img: robotfront.png
 img2: initialboard.jpg
 vid: https://www.youtube.com/embed/V0WYbThP48c

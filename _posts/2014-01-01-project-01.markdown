@@ -3,7 +3,7 @@ title: 2D Multiplayer "Tag" Game
 subtitle: Java Software Dev
 layout: default
 modal-id: 10
-date: 2014-07-09
+date: 2014-07-17
 linkDes: (Private Class Repo)
 link: https://www.paxtanlaker.com/
 img: exampletile.png

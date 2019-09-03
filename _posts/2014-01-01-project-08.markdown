@@ -3,7 +3,7 @@ title: VR Education Branch
 subtitle: Project Management | VR Dev (Unity)
 layout: default
 modal-id: 4
-date: 2014-07-15
+date: 2014-07-17
 img: correcteducationone.png
 img2: correcteducationtwo.png
 img3: correcteducationthree.png

@@ -3,7 +3,7 @@ title: Google Maps Web Clone
 subtitle: Java Software Dev | WebDev
 layout: default
 modal-id: 9
-date: 2014-07-10
+date: 2014-07-17
 linkDes: (Private Class Repo)
 link: https://www.paxtanlaker.com/
 img: bearmapsfront.png

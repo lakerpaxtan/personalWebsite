@@ -3,7 +3,7 @@ title: High Altitude Balloon
 subtitle: C Software Dev | KiCad Hardware Dev
 layout: default
 modal-id: 7
-date: 2014-07-12
+date: 2014-07-17
 img: HAB.png
 img2: stacpcb.jpg
 vid: https://www.youtube.com/embed/BauzWabbGxs
