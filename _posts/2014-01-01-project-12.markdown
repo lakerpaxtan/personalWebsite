@@ -1,0 +1,22 @@
+---
+title: NASA JPL AR Pipeline App
+subtitle: AR Dev (Unity)
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: pipelineone.png
+img2: pipelinetwo.png
+img3: pipelinethree.png
+vid: https://www.youtube.com/embed/mXXWKQaL0ww
+
+link: https://docs.google.com/document/d/1zTBaeGV6qMn1wPdtHhhFA4UjvfvWv53Ypi5oDov_TBU/edit?usp=sharing
+linkDes: Final Report Link
+thumbnail: pipelineone.png
+alt: image-alt
+project-date: August 2019
+client: NASA JPL
+category: VR Dev (Unity)
+description: The current workflow for natural gas distribution systems monitoring can be significantly improved. The vast majority of utility companies ask their workers to do manual GPS localization. The user pattern generally follows as such -> use GPS receiver to check current coordinate, use map to check desired coordinate, move towards desired coordinate, use gas detection equipment to check for leaks, and finally, input data for the single completed coordinate. The goal of my project was to use “AR” to correct for localization inefficiencies and to significantly speed up surveying. The result is an Android and iOS AR app that takes in GPS coordinates from the utility company’s database and visualizes the underground pipelines for the gas surveyors. The app removes all of the complicated processes from localization and allows the surveyors to focus on leak detection. On startup, the app connects to the surveyor’s GPS receiver, detects local positioning, and then points the user towards the closest section of the pipeline. Once close, the user can see the pipeline visualized above ground. The user can also tap any section of the pipeline to mark it for further inspection instead of needing to manually input suspicious coordinates. 
+
+
+---

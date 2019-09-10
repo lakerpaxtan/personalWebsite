@@ -2,7 +2,7 @@
 title: ISAACS Dev + Research
 subtitle: VR Dev (Unity) | UI/UX/HRI Research
 layout: default
-modal-id: 1
+modal-id: 4
 date: 2014-07-17
 img: correctisaacsone.png
 img2: correctisaacstwo.png
@@ -14,7 +14,7 @@ alt: image-alt
 project-date: January 2018
 client: UC Berkeley Augmented Cognition Labs
 category: UnityDev + UI/UX/HRI Research
-description:  The 'Immserive Semi-Autonomous Aerial Command Systems' project is a research project dedicated to exploring the most intuitive and efficient UAV control systems. More specifically, I worked as a Unity developer creating the main VR interface to test our hypothesis that the increased spatial awareness of VR would make drones safer and easier to control. This project has spanned over 3 years and I worked about 15 hours a week as a Unity developer, undergraduate researcher, and author of the ISAACS research paper (planned to be published by the end of Summer 2019). 
+description:  The 'Immserive Semi-Autonomous Aerial Command Systems' project is a research project dedicated to exploring the most intuitive and efficient UAV control systems. More specifically, I worked as a Unity developer creating the main VR interface to test our hypothesis that the increased spatial awareness of VR would make drones safer and easier to control. This project has spanned over 3 years and I worked about 15 hours a week as a Unity developer, undergraduate researcher, and author of the ISAACS research paper. 
 
 
 
