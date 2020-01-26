@@ -5,10 +5,8 @@ layout: default
 modal-id: 1
 date: 2014-07-17
 img: publicationsone.png
-img2: pipelinetwo.png
-img3: publicationsthree.jpg
-vid: 
-
+img2: publicationstwo.png
+img3: publicationsthree.png
 link: https://docs.google.com/document/d/1jjB8WyzjeBa-Ss__uRA3KgDziVtuvlkHz-wGVkWy3tY/edit?usp=sharing
 linkDes: Publications
 thumbnail: publicationsone.png
