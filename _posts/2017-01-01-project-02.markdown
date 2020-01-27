@@ -1,0 +1,17 @@
+---
+title: Eagle Scout (Project)
+subtitle: Built + Donated Restroom for Non-Profit
+layout: default
+modal-id: 15
+date: 2014-07-17
+img: eagletwo.jpg
+img2: eaglethree.jpg
+img3: eagle.png
+thumbnail: eagle.png
+alt: image-alt
+project-date: November 2016
+client: Demke Ranch
+temp: fun
+description: 
+
+---

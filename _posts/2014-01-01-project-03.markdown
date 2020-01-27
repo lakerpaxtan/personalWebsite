@@ -13,6 +13,7 @@ thumbnail: bearmapsfront.png
 alt: image-alt
 project-date: August 2018
 client: CS Project
+temp: notFun
 category: Software Engineering (Java) and WebDev
 description: Created a Google Maps Web Clone to practice algorithms (A* search algorithm) and dataset integration (OpenStreetMap data set). Designed the rastering system to allow for scrolling on the web page and realtime updates to route selection.
 

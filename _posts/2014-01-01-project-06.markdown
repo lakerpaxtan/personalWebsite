@@ -13,6 +13,7 @@ img4: checkmatefour.png
 vid: https://www.youtube.com/embed/oJVTyibOoyw
 thumbnail: checkmatefront.png
 alt: image-alt
+temp: notFun
 project-date: December 2018
 client: CS Project
 category: iOS + xCode + Swift Dev

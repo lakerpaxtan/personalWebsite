@@ -11,6 +11,7 @@ link: https://ptolemy.berkeley.edu/projects/isaacs/
 linkDes: https://ptolemy.berkeley.edu/projects/isaacs/
 thumbnail: correctisaacsone.png
 alt: image-alt
+temp: notFun
 project-date: January 2018
 client: UC Berkeley Augmented Cognition Labs
 category: UnityDev + UI/UX/HRI Research

@@ -1,0 +1,18 @@
+---
+title: Political Conflict Research Trip
+subtitle: Studying the Israeli - Palestinean Conflict
+layout: default
+modal-id: 14
+date: 2014-07-17
+img: israeltwo.jpg
+img2: israelthree.jpg
+img3: israelfour.jpg
+thumbnail: israel.png
+alt: image-alt
+project-date: December 2018
+client: N/A
+temp: fun
+category: Political Research 
+description: 
+
+---

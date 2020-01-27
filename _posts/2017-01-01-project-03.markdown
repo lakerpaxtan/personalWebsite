@@ -1,0 +1,18 @@
+---
+title: Valedictorian Award + Speech
+subtitle: Also includes pleas to Jeff Probst
+layout: default
+modal-id: 13
+date: 2014-07-17
+img: valtwo.jpg
+img2: valthree.png
+img3: valfour.jpg
+thumbnail: val.png
+alt: image-alt
+project-date: May 2017
+client: MVHS
+category: Award / Speech
+temp: fun
+description:  
+
+---

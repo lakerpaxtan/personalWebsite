@@ -11,6 +11,7 @@ thumbnail: schemefront.png
 alt: image-alt
 project-date: March 2018
 client: CS Project
+temp: notFun
 category: Python Software Dev + Scheme Software Dev 
 description: Created a Scheme interepreter in Python. The goal of the project was to create an interpreter that had all the functionality of the web interpreter in the picture and linked below. I learned the intricacies of Python and mastered the syntax of Scheme. Unfortunately the Github is forced to be private because it's a class project; shoot me an email if you have any specific questions!
 

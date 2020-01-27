@@ -12,6 +12,7 @@ img: correctartetrisone.png
 img2: correctartetristwo.png
 thumbnail: correctartetrisone.png
 alt: image-alt
+temp: notFun
 project-date: April 2014
 client: Personal Project
 category: AR Dev (Unity)

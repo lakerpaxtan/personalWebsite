@@ -9,7 +9,6 @@ img2: correcttetristhree.png
 img3: correcttetristwo.png
 game: <strong><a href="BrowserDemo.html">|||  &nbsp; &nbsp;  &lt;Link to Demo Browser Build&gt;</a> </strong>
 link: https://github.com/lakerpaxtan/VR-PuzzlePax
-temp: notFun
 linkDes: https://github.com/lakerpaxtan/VR-PuzzlePax
 thumbnail: correcttetrisone.png
 alt: image-alt

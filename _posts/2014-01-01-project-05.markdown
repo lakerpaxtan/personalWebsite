@@ -12,6 +12,7 @@ link: https://stac.berkeley.edu/project/balloon
 linkDes: https://stac.berkeley.edu/project/balloon
 thumbnail: HAB.png
 alt: image-alt
+temp: notFun
 project-date: August 2018
 client: Space Technologies at Cal
 category: Software Engineering (C) + Hardware Engineering (KiCad)

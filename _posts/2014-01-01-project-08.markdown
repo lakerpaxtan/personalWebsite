@@ -13,6 +13,7 @@ vid: https://www.youtube.com/embed/H6hsqLqGVTU
 link: https://vr.berkeley.edu/decal/
 linkDes: https://vr.berkeley.edu/decal/
 alt: image-alt
+temp: notFun
 project-date: January 2019
 client: VR Berkeley
 category: Project Management + VR Dev (Unity)

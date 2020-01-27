@@ -8,7 +8,7 @@ img: pipelineone.png
 img2: pipelinetwo.png
 img3: pipelinethree.png
 vid: https://www.youtube.com/embed/mXXWKQaL0ww
-temp: notFun
+
 link: https://docs.google.com/document/d/1zTBaeGV6qMn1wPdtHhhFA4UjvfvWv53Ypi5oDov_TBU/edit?usp=sharing
 linkDes: Final Report Link
 thumbnail: pipelineone.png
