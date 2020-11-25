@@ -2,7 +2,7 @@
 title: Ragnar Relay Race
 subtitle: Ran a 120 Mile Team Relay Race (Twice!)
 layout: default
-modal-id: 12
+modal-id: 13
 date: 2014-07-17
 img: ragnartwo.jpg
 img2: ragnarthree.jpg
