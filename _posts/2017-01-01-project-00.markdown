@@ -1,0 +1,21 @@
+---
+title: Podcast Guest Experience
+subtitle: Board Game Barrage - Peppermint Tank
+layout: default
+modal-id: 21
+date: 2014-07-17
+img: bgb.jpg
+img2: bgb2.jpg
+img3: bgb3.jpg
+thumbnail: bgb.jpg
+alt: image-alt
+project-date: May 2018
+client: Personal Achievment
+category: N/A
+temp: fun
+description: Invited to share my experiences in the board game world on Board Game Barrage, a top board game podcast. Definitely a fun experience sharing my insight on a hobby I love so much. 
+
+
+
+---
+

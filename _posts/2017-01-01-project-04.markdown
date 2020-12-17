@@ -1,18 +1,21 @@
 ---
-title: Political Conflict Research Trip
-subtitle: Studying the Israeli - Palestinean Conflict
+title: Survivor (Val Award) Speech
+subtitle: Includes pleas to Jeff Probst
 layout: default
-modal-id: 16
+modal-id: 17
 date: 2014-07-17
-img: israeltwo.jpg
-img2: israelthree.jpg
-img3: israelfour.jpg
-thumbnail: israel.png
+img: valtwo.jpg
+vid: https://www.youtube.com/embed/IplF94rtWo8?start=3846
+img2: valthree.png
+img3: valfour.jpg
+thumbnail: val.png
 alt: image-alt
-project-date: December 2018
-client: N/A
+project-date: May 2017
+client: MVHS
+category: Award + Speech
 temp: fun
-category: Political Research 
-description: Offered to various "leaders" among different campus communities, I was given the opportunity to visit Israel and Palestine to study their poltical conflicts. It was an incredibly enlightening trip and I was honored to be sponsored for the trip. I was a representative of the "Tech" majors on campus and it really helped offer new perspectives. Political science has always been something I've been interested in on a "hobby" level so this trip was a treat for me. 
+description: As Valedictorian of Murrieta Valley High School I had the opportunity to give a speech to my peers summarizing our time together and offering some words of advice for the future. <p></p> Honestly though, I was mostly just excited for the opportunity to ask to be on the TV-show Survivor. It's always been a dream of mine to be on the show and I felt like this platform would be a fun way of 'spicing up' my audition tape. Not super noble or anything, but I still have the dream and I hope that one day I'll be able to play. I'm confident I'd win. <p></p> Check out the first 45 seconds of my speech if you are interested in hearing the Survivor stuff! <br> (I had to go off-script so watch the Principal and Superintendent's expressions if you want to see a bit of anxiety) 
+
+
 
 ---

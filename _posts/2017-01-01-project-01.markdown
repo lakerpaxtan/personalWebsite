@@ -1,0 +1,20 @@
+---
+title: Paramotor Pilot
+subtitle: Bedsheet + Lawnmower = Flight
+layout: default
+modal-id: 20
+date: 2014-07-17
+img: parapax.jpg
+img2: parapax2.jpg
+img3: parapax3.jpg
+thumbnail: parapax.jpg
+alt: image-alt
+project-date: Nov 2020
+client: Personal Achievment
+category: Hobbies
+temp: fun
+description: I have officially achieved my goal of becoming a paramotor pilot! Only took 8 nights of camping, 9 days of training, and 17 flights/I had the opportunity to meet some amazing people and I really enjoyed the learning process. Proud to be a new member of Team Fly Halo and looking forward to the freedom to fly anywhere when I eventually get my own gear. <a href="https://www.instagram.com/p/CIzwVNALpFp/?utm_source=ig_web_copy_link">Instagram Link</a>
+
+
+
+---
