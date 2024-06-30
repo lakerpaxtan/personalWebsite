@@ -1,18 +1,18 @@
 ---
-title: International Modeling 
-subtitle: It's a weird story
+title: Bear-Lift (Berkeley Chairlift)
+subtitle: Government Consulting Project
 layout: default
-modal-id: 19
+modal-id: 15
 date: 2014-07-17
-img: internationalmodel1.jpg
-img2: fullmodel.jpg
-img3: modelwebsite.jpg
-thumbnail: internationalmodel1.jpg
+img: 
+img2: 
+img3: 
+thumbnail: bearlift.png
 alt: image-alt
-project-date: December 2019
-client: I don't even know. 
+project-date: December 2018
+client: N/A
 temp: fun
-category: Modeling
-description: Approached by a friend who worked for a chinese fashion company to model a specific jacket. Why not? <a href="https://www.toutiao.com/i6774705055191794184/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&from=singlemessage&timestamp%E2%80%A6">The Article I was featured in.</a>
+category: Consulting 
+description: Living far away from campus I felt the need for a solution to the 30-45 minute walk to campus. Already plagued with an over-saturated high-cost housing market, Berkeley's geography promotes a world where affluent students are more likely to attend class. This is due to increased access to cars or housing in close proximity to campus. <br> <br> Carol Christ, Berkeley's Chancellor, organized an AMA on Reddit to try to connect with students. We (myself and two housemates) submitted our (extremely long and detailed) proposal as a Reddit comment to gain attention. "Carol" (definitely her Secretary in hindsight) shot us down immediately. <p><a href ="https://www.reddit.com/r/berkeley/comments/9mhs3p/i_am_carol_christ_chancellor_of_uc_berkeley_ask/e7i1o4h/" target="_blank">See Reddit Post Here</a><p><p align = "left"> As an excercise in persistence, we scheduled office hours with the Chancellor and presented our proposal in powerpoint form over a 30 minute meeting. She loved it and immediately scheduled us for an hour-long meeting with the Vice Chancellor of Transportation. The next meeting also went well and we were asked if we had any interest in joining campus planning committee (a non-student consulting committee for the University) which we turned down due to our other academic obligations. <br> <br> <div align="left"> <iframe src="https://onedrive.live.com/embed?cid=8E7494CCD590A0DD&amp;resid=8E7494CCD590A0DD%211356&amp;authkey=AJLGwKfgrtSlYZo&amp;em=2&amp;wdAr=1.7777777777777777" width="962px" vertical-align="middle" height="565px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe> </div>
 
 ---

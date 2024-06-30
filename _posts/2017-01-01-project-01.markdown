@@ -1,20 +1,17 @@
 ---
-title: Paramotor Pilot
-subtitle: Bedsheet + Lawnmower = Flight
+title: Eagle Scout (Project)
+subtitle: Built + Donated Restroom for Non-Profit
 layout: default
-modal-id: 20
+modal-id: 18
 date: 2014-07-17
-img: parapax.jpg
-img2: parapax2.jpg
-img3: parapax3.jpg
-thumbnail: parapax.jpg
+img: eagletwo.jpg
+img2: eaglethree.jpg
+img3: eagle.png
+thumbnail: eagle.png
 alt: image-alt
-project-date: Nov 2020
-client: Personal Achievment
-category: Hobbies
+project-date: November 2016
+client: Demke Ranch
 temp: fun
-description: I have officially achieved my goal of becoming a paramotor pilot! Only took 8 nights of camping, 9 days of training, and 17 flights/I had the opportunity to meet some amazing people and I really enjoyed the learning process. Proud to be a new member of Team Fly Halo and looking forward to the freedom to fly anywhere when I eventually get my own gear. <a href="https://www.instagram.com/p/CIzwVNALpFp/?utm_source=ig_web_copy_link">Instagram Link</a>
-
-
+description: As part of achieving the Eagle Rank, I had the opportunity to complete an Eagle Scout project. A friend of mine runs a non-profit horse ranch that offers free services to those with disabilities as a way to give back to the community. To help them more efficiently offer their services, I built a fully furnished and plumbed handicap bathroom on the ranch. This included installing a 200 gallon sepctic tank, dealing with all the piping, and building the wooden structure itself. Another major part of this project was raising the $5000 needed for materials and leading others in the 500+ man-hour endeavour. I'm incredibly grateful for all the volunteers that offered their time to the project and I'm proud of the final result. 
 
 ---
