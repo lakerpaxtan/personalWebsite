@@ -1,0 +1,161 @@
+/* Custom improvements for Paxtan's website */
+
+/* Better as_of styling */
+.intro-meta {
+    margin: 15px 0 20px;
+    font-size: 18px;
+    font-style: italic;
+    color: #fff;
+    text-transform: none;
+    font-weight: 400;
+    letter-spacing: 1px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8), -1px -1px 2px rgba(0, 0, 0, 0.6);
+    background: rgba(0, 0, 0, 0.3);
+    padding: 8px 16px;
+    border-radius: 20px;
+    display: block;
+    text-align: center;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Better button spacing */
+header .btn-xl {
+    margin: 0 8px;
+    margin-top: 10px;
+}
+
+/* Removed current position indicator - keeping class for potential future use */
+
+/* Better timeline spacing */
+.timeline > li {
+    margin-bottom: 50px !important;
+}
+
+.timeline > li .timeline-panel {
+    padding: 25px !important;
+}
+
+/* Mobile improvements */
+@media (max-width: 768px) {
+    .intro-meta {
+        font-size: 16px;
+        margin: 10px auto 15px auto;
+        padding: 6px 12px;
+        display: block;
+        text-align: center;
+        width: fit-content;
+        max-width: 90%;
+    }
+    
+    header .btn-xl {
+        margin: 5px;
+        display: block;
+        width: 200px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    /* Fix timeline mobile layout */
+    .timeline > li .timeline-panel {
+        width: 100% !important;
+        float: none !important;
+        padding: 15px !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+    }
+    
+    .timeline > li .timeline-image {
+        width: 60px !important;
+        height: 60px !important;
+        margin-left: 0 !important;
+        position: relative !important;
+        left: 0 !important;
+        margin-bottom: 15px !important;
+    }
+    
+    .timeline > li .timeline-image img {
+        width: 60px !important;
+        height: 60px !important;
+    }
+    
+    .timeline > li {
+        margin-bottom: 40px !important;
+        min-height: auto !important;
+    }
+    
+    /* Stack timeline items vertically on mobile */
+    .timeline:before {
+        left: 30px !important;
+    }
+    
+    .timeline > li > .timeline-panel:before,
+    .timeline > li > .timeline-panel:after {
+        display: none !important;
+    }
+}
+
+/* Better email styling in contact section */
+#team strong i {
+    color: #3695fe;
+    font-size: 18px;
+}
+
+/* Fix portfolio grid layout - use flexbox for consistent layout */
+.portfolio-item {
+    margin-bottom: 30px !important;
+}
+
+/* Mobile: single column */
+@media (max-width: 767px) {
+    .portfolio-item {
+        width: 100% !important;
+        float: none !important;
+        clear: both !important;
+    }
+}
+
+/* Tablet: exactly 2 columns */
+@media (min-width: 768px) and (max-width: 991px) {
+    .portfolio-item {
+        width: 48% !important;
+        float: left !important;
+        margin-right: 4% !important;
+        clear: none !important;
+    }
+    
+    .portfolio-item:nth-child(2n) {
+        margin-right: 0 !important;
+    }
+    
+    .portfolio-item:nth-child(2n+1) {
+        clear: left !important;
+    }
+}
+
+/* Desktop: exactly 3 columns */
+@media (min-width: 992px) {
+    .portfolio-item {
+        width: 31.333% !important;
+        float: left !important;
+        margin-right: 3% !important;
+        clear: none !important;
+    }
+    
+    .portfolio-item:nth-child(3n) {
+        margin-right: 0 !important;
+    }
+    
+    .portfolio-item:nth-child(3n+1) {
+        clear: left !important;
+    }
+}
+
+/* Force clear floats after portfolio sections */
+#portfolio .row:after,
+.bg-light-gray .row:after {
+    content: "";
+    display: table;
+    clear: both;
+}

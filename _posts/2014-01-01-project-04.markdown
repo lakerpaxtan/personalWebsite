@@ -14,6 +14,6 @@ project-date: May 2019
 client: Personal Project
 temp: notFun
 category: AR Dev (Unity)
-description: In frustration with time-delay assosciated with the current measurment app that all iPhone come preloaded with, I wanted to make my own measurment app. It's a fairly simple and convenient app that leans on ARCore heavily and allows you to measure between any two points without any delay. The cost of removing the delay comes with loss of accuracy if measuring too quickly. 
+description: In frustration with time-delay associated with the current measurement app that all iPhones come preloaded with, I wanted to make my own measurement app. It's a fairly simple and convenient app that leans on ARCore heavily and allows you to measure between any two points without any delay. The cost of removing the delay comes with loss of accuracy if measuring too quickly. 
 
 ---

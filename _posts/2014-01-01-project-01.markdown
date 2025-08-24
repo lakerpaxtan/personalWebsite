@@ -14,6 +14,6 @@ project-date: March 2018
 client: CS Project
 category: Java Software Dev
 temp: notFun
-description: Created a local multiplayer game in Java that creates procedurally generated psuedo-random maps. The goal of the game is for player 1 to "tag" player 2 within map boundaries. The main goal of the project was to better my Java skills and learn the ropes of procedural generation. The game also features save-states, a main menu, and other options within the UI. 
+description: Created a local multiplayer game in Java that creates procedurally generated pseudo-random maps. The goal of the game is for player 1 to "tag" player 2 within map boundaries. The main goal of the project was to better my Java skills and learn the ropes of procedural generation. The game also features save-states, a main menu, and other options within the UI. 
 
 ---
