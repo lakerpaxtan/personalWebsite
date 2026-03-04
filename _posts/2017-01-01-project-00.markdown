@@ -10,7 +10,7 @@ img3: bgb3.jpg
 thumbnail: bgb.jpg
 alt: image-alt
 project-date: May 2018
-client: Personal Achievment
+client: Personal Achievement
 category: N/A
 temp: fun
 description: Invited to share my experiences in the board game world on Board Game Barrage, a top board game podcast. Definitely a fun experience sharing my insight on a hobby I love so much. 
@@ -18,4 +18,3 @@ description: Invited to share my experiences in the board game world on Board Ga
 
 
 ---
-

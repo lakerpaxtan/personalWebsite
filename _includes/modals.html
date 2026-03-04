@@ -16,7 +16,7 @@
                             <hr class="star-primary">
                            
 
-                            <p>{{ post.description }}</p>
+                            <div class="modal-description">{{ post.description }}</div>
                             <ul class="list-inline item-details">
                                 <li>Company:
                                     <strong><b>{{ post.client }}</b>
@@ -34,10 +34,13 @@
                                     <strong><a href="{{post.link}}" target="_blank">{{post.linkDes}}</a>
                                     </strong>
                                 </li>
+                                {% if post.game and post.game != "" %}
                                  <li>
-                                    <strong>{{post.game}}
+                                    Demo:
+                                    <strong>{{ post.game }}
                                     </strong>
                                 </li>
+                                {% endif %}
                             </ul>
                         
                             
