@@ -26,6 +26,40 @@ header .btn-xl {
     margin-top: 10px;
 }
 
+/* Tighten spacing between name and summary block */
+header .intro-text .intro-heading {
+    margin-bottom: 12px;
+}
+
+/* At-a-glance profile chips in hero */
+header .intro-glance {
+    margin: 0 auto 10px;
+    max-width: 860px;
+    padding: 12px 16px;
+    background: rgba(0, 0, 0, 0.34);
+    border: 1px solid rgba(255, 255, 255, 0.24);
+    border-radius: 10px;
+}
+
+header .intro-glance-primary {
+    margin: 0 0 6px 0;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.2;
+    text-transform: none;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8);
+}
+
+header .intro-glance-secondary {
+    margin: 0;
+    color: rgba(255, 255, 255, 0.95);
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1.3;
+    text-transform: none;
+}
+
 /* Removed current position indicator - keeping class for potential future use */
 
 /* Better timeline spacing */
@@ -35,6 +69,18 @@ header .btn-xl {
 
 .timeline > li .timeline-panel {
     padding: 25px !important;
+}
+
+.timeline > li .timeline-image {
+    overflow: hidden;
+}
+
+.timeline > li .timeline-image img {
+    width: 100% !important;
+    height: 100% !important;
+    max-width: none !important;
+    object-fit: cover;
+    display: block;
 }
 
 /* Mobile improvements */
@@ -56,6 +102,19 @@ header .btn-xl {
         margin-left: auto;
         margin-right: auto;
     }
+
+    header .intro-glance {
+        margin: 0 auto 8px;
+        padding: 10px 12px;
+    }
+
+    header .intro-glance-primary {
+        font-size: 15px;
+    }
+
+    header .intro-glance-secondary {
+        font-size: 12px;
+    }
     
     /* Fix timeline mobile layout */
     .timeline > li .timeline-panel {
@@ -76,8 +135,8 @@ header .btn-xl {
     }
     
     .timeline > li .timeline-image img {
-        width: 60px !important;
-        height: 60px !important;
+        width: 100% !important;
+        height: 100% !important;
     }
     
     .timeline > li {
@@ -102,60 +161,54 @@ header .btn-xl {
     font-size: 18px;
 }
 
-/* Fix portfolio grid layout - use flexbox for consistent layout */
-.portfolio-item {
-    margin-bottom: 30px !important;
+/* Use CSS grid for deterministic card counts at each breakpoint */
+#portfolio .portfolio-grid {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    gap: 30px;
 }
 
-/* Mobile: single column */
-@media (max-width: 767px) {
-    .portfolio-item {
-        width: 100% !important;
-        float: none !important;
-        clear: both !important;
+#portfolio .portfolio-grid:before,
+#portfolio .portfolio-grid:after {
+    content: none !important;
+    display: none !important;
+}
+
+#portfolio .portfolio-grid .portfolio-item {
+    width: auto !important;
+    float: none !important;
+    margin: 0 !important;
+}
+
+#portfolio .portfolio-grid .portfolio-item .portfolio-link,
+#portfolio .portfolio-grid .portfolio-item .portfolio-caption {
+    width: 100%;
+    max-width: none;
+}
+
+@media (min-width: 768px) {
+    #portfolio .portfolio-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
     }
 }
 
-/* Tablet: exactly 2 columns */
-@media (min-width: 768px) and (max-width: 991px) {
-    .portfolio-item {
-        width: 48% !important;
-        float: left !important;
-        margin-right: 4% !important;
-        clear: none !important;
-    }
-    
-    .portfolio-item:nth-child(2n) {
-        margin-right: 0 !important;
-    }
-    
-    .portfolio-item:nth-child(2n+1) {
-        clear: left !important;
-    }
-}
-
-/* Desktop: exactly 3 columns */
 @media (min-width: 992px) {
-    .portfolio-item {
-        width: 31.333% !important;
-        float: left !important;
-        margin-right: 3% !important;
-        clear: none !important;
-    }
-    
-    .portfolio-item:nth-child(3n) {
-        margin-right: 0 !important;
-    }
-    
-    .portfolio-item:nth-child(3n+1) {
-        clear: left !important;
+    #portfolio .portfolio-grid {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
     }
 }
 
-/* Force clear floats after portfolio sections */
-#portfolio .row:after,
-.bg-light-gray .row:after {
-    content: "";
-    display: table;
-    clear: both;
+/* Subtle emphasis for most recent timeline item */
+.timeline > li.timeline-current .timeline-panel {
+    border-left: 3px solid #3695fe;
+}
+
+/* Better contrast for links in contact area */
+#team a {
+    color: #2a6fc2;
+}
+
+#team a:hover,
+#team a:focus {
+    color: #1b4f8f;
 }
