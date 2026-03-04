@@ -1,0 +1,24 @@
+{
+  "name": "personalwebsite",
+  "version": "1.0.0",
+  "description": "Paxtan Laker personal website",
+  "main": "index.js",
+  "scripts": {
+    "ui:check": "node scripts/ui-feedback-loop.mjs",
+    "ui:check:local": "node scripts/ui-feedback-loop.mjs http://localhost:4000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lakerpaxtan/personalWebsite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lakerpaxtan/personalWebsite/issues"
+  },
+  "homepage": "https://github.com/lakerpaxtan/personalWebsite#readme",
+  "devDependencies": {
+    "playwright": "^1.58.2"
+  }
+}

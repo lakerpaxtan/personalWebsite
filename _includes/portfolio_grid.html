@@ -3,11 +3,14 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Engineering Portfolio</h2>
-                    <h3 class="section-subheading text-muted">A few of my projects</h3>
+                    <h2 class="section-heading">School-Era Personal Projects</h2>
+                    <h3 class="section-subheading text-muted">
+                        Projects built during school years.<br>
+                        For more recent personal projects, see <a href="https://github.com/lakerpaxtan" target="_blank">GitHub</a>.
+                    </h3>
                 </div>
             </div>
-            <div class="row">
+            <div class="row portfolio-grid">
 
             {% assign posts = site.posts | where: "temp", "notFun" %}
             {% for post in posts limit:12 %}   

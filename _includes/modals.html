@@ -16,7 +16,7 @@
                             <hr class="star-primary">
                            
 
-                            <p>{{ post.description }}</p>
+                            <div class="modal-description">{{ post.description }}</div>
                             <ul class="list-inline item-details">
                                 <li>Company:
                                     <strong><b>{{ post.client }}</b>
@@ -34,27 +34,36 @@
                                     <strong><a href="{{post.link}}" target="_blank">{{post.linkDes}}</a>
                                     </strong>
                                 </li>
+                                {% if post.game and post.game != "" %}
                                  <li>
-                                    <strong>{{post.game}}</a>
+                                    Demo:
+                                    <strong>{{ post.game }}
                                     </strong>
                                 </li>
+                                {% endif %}
                             </ul>
                         
                             
-                            <object width="600" height ="400" data ={{post.vid}} onerror="this.style.display='none'">
+                            {% if post.vid and post.vid != "" %}
+                            <object width="600" height="400" data="{{ post.vid }}" onerror="this.style.display='none'"></object>
+                            {% endif %}
 
-                            </object>
+                            {% if post.vid2 and post.vid2 != "" %}
+                            <object width="600" height="400" data="{{ post.vid2 }}" onerror="this.style.display='none'"></object>
+                            {% endif %}
 
-                            <object width="600" height ="400" data ={{post.vid2}} onerror="this.style.display='none'">
-
-                            </object>
-
-                          
-                            
-                            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered"  onerror="this.style.display='none'">
-                            <img src="img/portfolio/{{ post.img2 }}" class="img-responsive img-centered" onerror="this.style.display='none'" >
+                            {% if post.img and post.img != "" %}
+                            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" onerror="this.style.display='none'">
+                            {% endif %}
+                            {% if post.img2 and post.img2 != "" %}
+                            <img src="img/portfolio/{{ post.img2 }}" class="img-responsive img-centered" onerror="this.style.display='none'">
+                            {% endif %}
+                            {% if post.img3 and post.img3 != "" %}
                             <img src="img/portfolio/{{ post.img3 }}" class="img-responsive img-centered" onerror="this.style.display='none'">
+                            {% endif %}
+                            {% if post.img4 and post.img4 != "" %}
                             <img src="img/portfolio/{{ post.img4 }}" class="img-responsive img-centered" onerror="this.style.display='none'">
+                            {% endif %}
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
